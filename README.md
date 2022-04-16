@@ -1,10 +1,4 @@
-### Hi there, I am Olfa Halila ! 👋
-
-<!--
-**OlfaHal/OlfaHal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there, I am Olfa Halila ! 👋 <!--
 - 🔭 I’m currently working on a DL project
 - 🌱 I’m currently learning PyTorch for Deep Learning
 - 👯 I’m looking to collaborate on Youtube
